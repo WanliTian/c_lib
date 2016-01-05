@@ -1,0 +1,14 @@
+{application, erl_lib,
+ [
+  {description, "An Erlang erl_lib library"},
+  {vsn, "1"},
+  {modules, [
+             erl_lib
+            ]},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {env, []}
+ ]}.

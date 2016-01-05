@@ -1,2 +1,2 @@
-# c_lib
+# erl_lib
 some common codes used within erlang projects
